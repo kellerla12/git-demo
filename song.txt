@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 1
 2
 3
 3
 4
 4s
+=======
+wedwedwe
+wedwedwedwed
+wedwed
+wdededs
+>>>>>>> 01a64a0c6e676b7bb3b01d5214ae33e79998bb36
